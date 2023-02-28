@@ -42,5 +42,5 @@ SO THAT I can create a strong password that provides greater security
 - https://www.google.com.au/
 - https://www.youtube.com/
 - https://developer.mozilla.org/en-US/
-- https://coding-boot-camp.github.io/full-stack/apis/how-to-use-api-keys
+- https://courses.bootcampspot.com/courses/2384/assignments/44563?module_item_id=828465
 
