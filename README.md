@@ -32,9 +32,11 @@ SO THAT I can create a strong password that provides greater security
 
 **Deployed link & Screenshot**
 -
-- (Put Link Here)
+- https://github.com/Boulter97/Password-Generator
+  
+<img width="717" alt="Screenshot 2023-07-08 at 10 57 44 am" src="https://github.com/Boulter97/Password-Generator/assets/118101244/d039bbe5-dadc-48d7-bef1-ae13d9dc229c">
 
-(Put Screenshot Here)
+
 
 
 **References & Resources**
